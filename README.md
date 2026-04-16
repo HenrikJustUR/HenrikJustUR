@@ -1,8 +1,8 @@
 ## Hi there 👋
-🎓 Media Informatics & Business Administration @ University of Regensburg
-💻 Python, C, C++, Java, TypeScript, JavaScript
-🌐 HTML5, CSS3, JSON
-🛠️ Interested in Software Development & Microcontroller Technology
+* 🎓 Media Informatics & Business Administration @ University of Regensburg
+* 💻 Python, C, C++, Java, TypeScript, JavaScript
+* 🌐 HTML5, CSS3, JSON
+* 🛠️ Interested in Software Development & Microcontroller Technology
 <!--
 **HenrikJustUR/HenrikJustUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
